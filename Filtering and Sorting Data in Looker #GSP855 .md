@@ -12,7 +12,7 @@
 
 >click setting > save > as a look > Tittle `Cancelled Flight Count by Week in 2004` > save
 
-### Navigation menue > Flights > Measures > `Count Long Flight`
+### Looker > Explore > FAA > Flights > Measures > `Count Long Flight`
 
 >`Total Distance`
 
@@ -22,5 +22,5 @@
 
 >click setting > save > as a look > Tittle `Total Distance and Long Flight Count by Carrier` > save
 
-### go back from explore 
+### go back to Looker
 > Folders > my folder > select both looks > New > dashboard > Name `Flights Data` > Create Dashboard
