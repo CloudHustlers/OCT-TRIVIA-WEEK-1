@@ -7,7 +7,7 @@
 
 >CLick on Copy app > App name `ATM Maintenance Tracker` > Copy app
 
->Download this file [cloudhustler](https://github.com/CloudHustlers/OCT-TRIVIA-WEEK-1/raw/main/cloudhustlers.xlsx)
+>Download this file [cloudhustler](https://github.com/CloudHustlers/OCT-TRIVIA-WEEK-1/raw/main/cloudhustler's.xlsx)
 
 >open in incognito [Google Sheet](https://docs.google.com/spreadsheets) > Click `Tickets` sheet 
 
